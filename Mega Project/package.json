@@ -1,0 +1,16 @@
+{
+  "name": "mega-project",
+  "version": "1.0.0",
+  "description": "a project to learn backend",
+  "license": "ISC",
+  "author": "Dheeraj Singh Rao",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.6"
+  }
+}
